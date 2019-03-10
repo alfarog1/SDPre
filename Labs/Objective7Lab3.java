@@ -23,7 +23,7 @@ public class Objective7Lab3 {
       }
 
       if ( selection == 3) {
-      System.out.println("Finish");
+      System.out.println("Goodbye");
       scanner.close();
     }
 
